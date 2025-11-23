@@ -32,9 +32,9 @@ A simple and clean React Todo application connected to a backend API. It allows 
 
 ```mermaid
 graph LR
-    A[React Frontend] -- HTTP Requests --> B[Node.js Backend (REST API)]
+    A[React Frontend] --> B[Node.js Backend REST API]
     B --> C[(MongoDB Database)]
-    B -- JSON Response --> A
+    B --> A
 
 ```
 
