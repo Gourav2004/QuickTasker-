@@ -55,21 +55,21 @@ Make sure your backend server is running on http://localhost:5000.
 
 ## Usage
 
-Click the Get All Todos button to load existing todos.
+- Click the Get All Todos button to load existing todos.
 
-Use the input box to type a new todo and press Add to save it.
+- Use the input box to type a new todo and press Add to save it.
 
-Click the Delete button next to a todo to remove it.
+- Click the Delete button next to a todo to remove it.
 
 ## Tech Stack
 
-React
+- React
 
-Fetch API for HTTP requests
+- Fetch API for HTTP requests
 
-Node.js backend (assumed running separately)
+- Node.js backend (assumed running separately)
 
-MongoDB (for database)
+- MongoDB (for database)
 
 ## Contributing
 
