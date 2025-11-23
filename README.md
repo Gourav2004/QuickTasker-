@@ -13,10 +13,6 @@ A simple and clean React Todo application connected to a backend API. It allows 
 
 ---
 
-# TodoSnap
-
-A simple and clean React Todo application connected to a backend API. It allows you to fetch, add, and delete tasks with a straightforward and user-friendly interface.
-
 ---
 
 ## Features
@@ -41,24 +37,19 @@ graph LR
 ##Installation
 
 - Clone the repository:
-
 git clone https://github.com/your-username/todosnap.git
 
 
 - Navigate to the project directory:
-
 cd todosnap
 
 
 - Install dependencies:
-
 npm install
 
 
 - Start the React app:
-
 npm start
-
 
 Make sure your backend server is running on http://localhost:5000.
 
