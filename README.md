@@ -13,6 +13,21 @@ A simple and clean React Todo application connected to a backend API. It allows 
 
 ---
 
+# TodoSnap
+
+A simple and clean React Todo application connected to a backend API. It allows you to fetch, add, and delete tasks with a straightforward and user-friendly interface.
+
+---
+
+## Features
+
+- Fetch all todos from the backend  
+- Add new todo items  
+- Delete existing todos  
+- Simple and minimal UI built with React  
+
+---
+
 ## Architecture Diagram
 
 ```mermaid
@@ -20,18 +35,8 @@ graph LR
     A[React Frontend] -- HTTP Requests --> B[Node.js Backend (REST API)]
     B --> C[(MongoDB Database)]
     B -- JSON Response --> A
-Installation
 
-Clone the repository:
-
-git clone https://github.com/your-username/todosnap.git
-
-
-Navigate to the project directory:
-
-cd todosnap
 ```
-
 
 Install dependencies:
 
@@ -72,7 +77,7 @@ License
 This project is open source and free to use.
 
 
----
+
 
 Just replace `your-username` and `todosnap` with your actual GitHub username and repo name.
 
